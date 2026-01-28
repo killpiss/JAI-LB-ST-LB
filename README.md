@@ -4,4 +4,5 @@ Converts the Json format of J.ai lorebooks to the SillyTavern Json format for ea
 Useage:
 
 In terminal: python LorebookScript.py [J.AILorebook].json [RenameLorenook].json
+
 Example: python LorebookScript.py JanitorLorebook.json SillyTavernLorebook.json
